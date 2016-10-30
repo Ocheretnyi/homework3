@@ -1,0 +1,20 @@
+{
+    "name": "vendor/homework3",
+    "description": "homework",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ocheretnyi",
+            "email": "sasha.ocheretniy@mail.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4":
+        {
+            "Vendor\\homework\\": "src"
+        }
+    }
+}
